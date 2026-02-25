@@ -18,19 +18,19 @@ body {
   min-height: calc(100vh - 72px);
   width: 100%;
   flex: 1;
-  margin-top: 72px;
+  // margin-top: 72px;
 }
 
 @media (max-width: 1023px) {
-  .mainWrapper {
-    margin-top: 157px;
-  }
+  // .mainWrapper {
+  //   margin-top: 157px;
+  // }
 }
 
 @media (max-width: 639px) {
-  .mainWrapper {
-    margin-top: 108px;
-  }
+  // .mainWrapper {
+  //   margin-top: 108px;
+  // }
 }
 
 .container {

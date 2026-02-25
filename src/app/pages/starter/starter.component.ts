@@ -14,9 +14,9 @@ import { AppBlogCardsComponent } from 'src/app/components/blog-card/blog-card.co
     AppRevenueUpdatesComponent,
     AppYearlyBreakupComponent,
     AppMonthlyEarningsComponent,
-    AppRecentTransactionsComponent,
-    AppTopProjectsComponent,
-    AppBlogCardsComponent
+    // AppRecentTransactionsComponent,
+    // AppTopProjectsComponent,
+    // AppBlogCardsComponent
   ],
   templateUrl: './starter.component.html',
   encapsulation: ViewEncapsulation.None,

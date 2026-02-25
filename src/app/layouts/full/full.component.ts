@@ -35,7 +35,7 @@ const BELOWMONITOR = 'screen and (max-width: 1023px)';
     NgScrollbarModule,
     TablerIconsModule,
     HeaderComponent,
-    AppTopstripComponent
+    // AppTopstripComponent
   ],
   templateUrl: './full.component.html',
 
